@@ -19,18 +19,18 @@ namespace csharp_web_dev_lsn9exceptions
         }
         */
 
+
         static void Main(string[] args)
         {
             // Test out your Divide() function here!
 
             // Test out your CheckFileExtension() function here!
+            
             Dictionary<string, string> students = new Dictionary<string, string>();
             students.Add("Carl", "Program.cs");
             students.Add("Brad", "");
             students.Add("Elizabeth", "MyCode.cs");
             students.Add("Stefanie", "CoolProgram.cs");
-
-
         }
     }
 }

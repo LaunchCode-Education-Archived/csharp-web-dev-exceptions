@@ -1,6 +1,7 @@
 ﻿using System;
 
 //Book examples for the Unit 1 C# Program
+//to run program use terminal and type "dotnet run"
 
 namespace Unit1_TempExceptions
 {
