@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-//Exercises for the Exceptions Chapter
+//Exercises for the Exceptions Chapter 
 
 namespace csharp_web_dev_lsn9exceptions
 {
@@ -24,6 +24,7 @@ namespace csharp_web_dev_lsn9exceptions
             // Test out your Divide() function here!
 
             // Test out your CheckFileExtension() function here!
+
             Dictionary<string, string> students = new Dictionary<string, string>();
             students.Add("Carl", "Program.cs");
             students.Add("Brad", "");
